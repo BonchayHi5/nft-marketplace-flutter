@@ -99,6 +99,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.4"
+  floating_bottom_navigation_bar:
+    dependency: "direct main"
+    description:
+      name: floating_bottom_navigation_bar
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.5.2"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -151,6 +158,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.1"
+  ionicons:
+    dependency: "direct main"
+    description:
+      name: ionicons
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.2"
   lints:
     dependency: transitive
     description:
@@ -270,13 +284,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.2.4"
-  responsive_navigation_bar:
-    dependency: "direct main"
-    description:
-      name: responsive_navigation_bar
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "3.2.4"
   rxdart:
     dependency: transitive
     description:

@@ -62,6 +62,10 @@ file
 2.12
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.4/
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.4/lib/
+floating_bottom_navigation_bar
+2.12
+file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/floating_bottom_navigation_bar-1.5.2/
+file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/floating_bottom_navigation_bar-1.5.2/lib/
 flutter_blurhash
 2.15
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blurhash-0.7.0/
@@ -86,6 +90,10 @@ http_parser
 2.12
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/lib/
+ionicons
+2.12
+file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/ionicons-0.1.2/
+file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/ionicons-0.1.2/lib/
 lints
 2.17
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0/
@@ -154,10 +162,6 @@ process
 2.14
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib/
-responsive_navigation_bar
-2.12
-file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/responsive_navigation_bar-3.2.4/
-file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/responsive_navigation_bar-3.2.4/lib/
 rxdart
 2.12
 file:///Users/dev/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.27.5/

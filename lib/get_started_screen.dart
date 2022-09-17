@@ -15,7 +15,7 @@ class GetStartedScreen extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            SizedBox(height: MediaQuery.of(context).size.height * 0.04),
+            SizedBox(height: MediaQuery.of(context).size.height * 0.05),
             StaggeredGrid.count(
               crossAxisCount: 4,
               mainAxisSpacing: 12,
@@ -144,23 +144,23 @@ class GetStartedScreen extends StatelessWidget {
                       ],
                     ),
                     SliderButton(
-                      vibrationFlag: false,
-                      buttonSize: 60,
-                      dismissible :false,
-                      action: () {
-                        Navigator.push(context, MaterialPageRoute(builder: (context) => const HomeScreen()));
-                        ///Do something here OnSlide
-                      },
-                      alignLabel: Alignment.center,
-                      label: const Text("Get Started",style: TextStyle(color: Color(0xff4a4a4a),fontWeight: FontWeight.w500,fontSize: 16)),
-                      icon: const Center(child: Icon(Icons.arrow_forward_ios,color: Colors.white)),
-                      ///Change All the color and size from here.
+                      height: 60,
                       width: double.infinity,
-                      radius: 24,
+                      radius: 16,
                       buttonColor: HexColor("#231955"),
                       backgroundColor: Colors.grey[200]!,
                       highlightedColor: Colors.white,
                       shimmer: false,
+                      vibrationFlag: false,
+                      buttonSize: 60,
+                      dismissible :false,
+                      alignLabel: Alignment.center,
+                      label: const Text("Get Started",style: TextStyle(color: Color(0xff4a4a4a),fontWeight: FontWeight.w500,fontSize: 16)),
+                      icon: const Center(child: Icon(Icons.arrow_forward_ios,color: Colors.white)),
+                      action: () {
+                        Navigator.push(context, MaterialPageRoute(builder: (context) => const HomeScreen()));
+                        ///Do something here OnSlide
+                      },
                     ),
                   ],
                 ),
