@@ -1,16 +1,30 @@
 # nft_marketplace_ui
 
-A new Flutter project.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter pub run build_runner build --delete-conflicting-outputs
+flutter run
+```
 
-## Getting Started
+Get Started | Home |
+|---|---|
+| <img src="https://github.com/BonchayHi5/nft-marketplace-ui-flutter/blob/master/assets/photo_2022-09-19%2015.29.28.jpeg?raw=true" width="400px" /> | <img src="https://github.com/BonchayHi5/nft-marketplace-ui-flutter/blob/master/assets/photo_2022-09-19%2015.29.26.jpeg?raw=true" width="400px" /> |
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+          
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+  
+  
+  
+          
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
